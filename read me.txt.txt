@@ -1,0 +1,36 @@
+TEAM DETAILS
+NAME                                USN
+1.POOJASHREE K                      1KS18CS067
+2.VIJAYASHREE N.R                   1KS18CS116
+CONTRIBUTION
+NAME                                 CONTRIBUTION
+POOJASHREE K                         LOGIC,DEBUGGING
+VIJAYASHREE N R                      CODING,PROBLEM SOLVING
+
+INSTRUCTIONS
+1.AFTER THE COMPLITION
+2.ENTER THE FILE NAME IN THE COMMAND PROMPT
+3.PRESS THE ENTER KEY TO FIND THE MULTIPLICATION OF 2 NUMBERS.
+
+DETAILS ON EXAMPLE INVOCATION AND OUTPUT
+
+INPUT
+1234
+1234
+
+OUTPUT
+1522756
+
+CHALLENGES FACED
+1.dealing with file constraints was challenging.
+2.Learning the concepts of command line arguments.
+3.dealing with long numbers.
+
+LEARNT FROM THE ASSIGNMENT
+1.How to write efficient code.
+2.Solving the problem mathematically.
+3.How to write code using divide and conquer method.
+
+OPERATION
+1.The number of basic operations performed is given with the output.
+2.the time complexity for the problems is given in the form of comment in the source code.
